@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairMan.Application", "RepairMan\RepairMan.Application.csproj", "{2CBC00B3-C1CC-4716-B994-C7329DEE0AA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairMan.Application", "RepairMan.Application\RepairMan.Application.csproj", "{2CBC00B3-C1CC-4716-B994-C7329DEE0AA7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairMan.Domain", "RepairMan.Domain\RepairMan.Domain.csproj", "{C6FB451E-7D41-41D8-8FC1-2B69A341ABD0}"
 EndProject
